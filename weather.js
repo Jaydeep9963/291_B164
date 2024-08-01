@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 const readline = require("readline");
 
-const apiKey = "YOUR_API_KEY"; // Replace with your actual OpenWeatherMap API key
+const apiKey = "8df612d1cd450c3595ec170dcf2ce070"; // Replace with your actual OpenWeatherMap API key
 
 const rl = readline.createInterface({
   input: process.stdin,
